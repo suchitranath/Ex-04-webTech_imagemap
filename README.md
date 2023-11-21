@@ -127,9 +127,10 @@ take screenshot of the output
 ```
 
 # Output:
+![Screenshot 2023-11-21 141419](https://github.com/suchitranath/Ex-04-webTech_imagemap/assets/145742631/3e9491b0-cd5a-4576-b76b-4ac5bb8edc0a)
 
 
-![map](https://github.com/suchitranath/Ex-04-webTech_imagemap/assets/145742631/c1524ad3-c557-40ec-a9b0-729246178589)
+
 
 
 ![Screenshot 2023-11-21 180521](https://github.com/suchitranath/Ex-04-webTech_imagemap/assets/145742631/249f8254-42be-45d5-a627-9600656be0fc)
